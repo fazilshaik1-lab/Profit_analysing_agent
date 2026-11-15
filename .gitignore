@@ -1,0 +1,13 @@
+
+# Environment variables and credentials
+.env
+
+# Python virtual environment
+.venv/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Temporary files
+*.log
